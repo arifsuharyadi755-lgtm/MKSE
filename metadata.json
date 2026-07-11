@@ -1,0 +1,8 @@
+{
+  "name": "Toko Komputer & Servis Laptop",
+  "description": "Website Toko Komputer, Rakit PC Gaming, dan Jasa Servis Laptop/Notebook dengan fitur Konsultasi AI, Katalog Produk, dan Estimasi Biaya Perbaikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
